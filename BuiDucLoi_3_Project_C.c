@@ -4,6 +4,9 @@
 #include <stdbool.h>
 #include <ctype.h>
 
+//LLL2006
+//12122006
+
 struct Date {
 	int day, month, year;
 };
